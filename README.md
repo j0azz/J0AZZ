@@ -1,4 +1,4 @@
-### Hello, World. This is me, Joás 👋
+### Hello, World. I'm Joás 👋
 
 - 🔭 Currently working with some projects on Data Science and Artificial Intelligence
 - 🌱 Learning the mathematical and algorithmical basis of Machine Learning
