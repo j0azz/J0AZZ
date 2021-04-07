@@ -9,7 +9,5 @@
 
 - 📫 Email: joas.brito@academico.ufpb.br
 
-- 😄 Pronouns: curious, passionate, ambitious
-
 - ⚡ Hobbies: musical composition, meditation, chess
 
