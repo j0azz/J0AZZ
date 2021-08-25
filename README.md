@@ -1,5 +1,6 @@
 ### Hello, World. I'm Joás 👋
 
+- Interest Fields: data science, artificial intelligence, computational neuroscience, cybersecurity
 
 - 🔭 Currently working with some projects on Web Development and Data Science
 
