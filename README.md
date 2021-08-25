@@ -1,13 +1,13 @@
 ### Hello, World. I'm Joás 👋
 
 
-- 🔭 Currently working with some projects on Data Science and Artificial Intelligence
+- 🔭 Currently working with some projects on Web Development and Data Science
 
-- 🌱 Learning the mathematical and algorithmical basis of Machine Learning
+- 🌱 Learning data science and web development tools based in Python
 
-- 💬 Ask me about Industrial Automation basics, general Computer Science stuff and some Data Science insights
+- 💬 Ask me about Industrial Automation basics, general Computer Science stuff and Data Science insights
 
-- 📫 Email: joas.brito@academico.ufpb.br
+- 📫 joas.brito@academico.ufpb.br
 
 - ⚡ Hobbies: musical composition, meditation, chess
 
