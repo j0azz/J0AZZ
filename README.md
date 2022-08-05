@@ -8,7 +8,7 @@
 
 - My last side project: https://github.com/J0AZZ/web-development-portfolio/tree/main/oniric
 
-- 📫 joas.brito@academico.ufpb.br
+- 📫 jbferreira@uolinc.com
 
 - ⚡ Hobbies: musical composition, meditation, chess
 
