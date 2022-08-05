@@ -1,6 +1,8 @@
 ### Hello, World. I'm Joás 👋
 
-- Interest Fields: full-stack web development, data science, artificial intelligence, cybersecurity and computational neuroscience
+- Currently working as Cybersecurity Engineer (AppSec) at PagSeguro
+
+- Interest Fields: cybersecurity, secure development, full-stack web development, data science, artificial intelligence and computational neuroscience
 
 - Linkedin: www.linkedin.com/in/j0azz 
 
