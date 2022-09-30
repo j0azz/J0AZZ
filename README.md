@@ -1,6 +1,6 @@
 ### Hello, World. I'm Joás 👋
 
-- Currently working as Cybersecurity Engineer (AppSec) at PagSeguro
+- Currently working as a Cybersecurity Engineer (AppSec) at PagSeguro
 
 - Interest Fields: cybersecurity, secure development, full-stack web development, data science, artificial intelligence and computational neuroscience
 
