@@ -7,7 +7,7 @@
 
 - My last side project: https://github.com/J0AZZ/web-development-portfolio/tree/main/oniric
 
-- 📫 jbferreira@uolinc.com
+- 📫 appsec.joas@gmail.com
 
 - ⚡ Hobbies: musical composition, meditation, chess
 
