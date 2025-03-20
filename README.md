@@ -5,11 +5,7 @@
 
 - Linkedin: www.linkedin.com/in/j0azz 
 
-- My last side project: https://github.com/J0AZZ/web-development-portfolio/tree/main/oniric
-
-- 📫 appsec.joas@gmail.com
-
-- ⚡ Hobbies: musical composition, meditation, chess
+- Medium: www.medium.com/@joas.brito
 
 
 
